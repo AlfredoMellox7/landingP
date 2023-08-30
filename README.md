@@ -1,1 +1,1 @@
-Revisão de conteúdo sobre Desenvolvimento Web para apçicação adcional de PHP.
+Revisão de conteúdo sobre Desenvolvimento Web para aplicação adcional de PHP.
