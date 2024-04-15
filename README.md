@@ -1,1 +1,2 @@
-Revisão de conteúdo sobre Desenvolvimento Web para aplicação adcional de PHP .
+Revisão de conteúdo sobre Desenvolvimento Web para aplicação adicional de PHP .
+*** Deployment Avaiable .
